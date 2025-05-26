@@ -2,6 +2,7 @@ group 'com.byneapp.flutter_config'
 version '1.0-SNAPSHOT'
 
 buildscript {
+    namespace 'com.byneapp.flutter_config'
     ext.kotlin_version = '1.7.20'
     repositories {
         google()
